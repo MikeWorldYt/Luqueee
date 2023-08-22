@@ -1,4 +1,4 @@
-# ¡Hola, soy Adrià! 👋
+# ¡Hola, soy Adrià!
 
 ## Python Lover❤️😍
 
