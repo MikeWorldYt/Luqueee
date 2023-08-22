@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi im Adrià 👋
+
+* Currently, I am working on an algorithm that generates a virtual character with the detection of our body
+
+* I'm currently learning IA
 
 <!--
 **Luqueee/Luqueee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
