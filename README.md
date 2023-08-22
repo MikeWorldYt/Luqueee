@@ -1,3 +1,4 @@
+<img align="center" src="https://media.giphy.com/media/mD483FoOBfybCwPXTK/giphy.gif" width="400"/>
 <h1 align="left">Hi 👋, I'm Adrià</h1>
 <h2 align="left"><b>Python Lover❤️</b></h2>
 
