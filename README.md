@@ -1,17 +1,16 @@
-# ¡Hola, soy Adrià!
+# Hello, I'm Adrià!
 
 ## Python Lover❤️😍
 
-## 💫 Enfocado en la Creación: Forjando un Algoritmo Fascinante 🧠🎨
+## 💫 Focused on Creation: Forging a Fascinating Algorithm 🧠🎨
 
-Sumergido profundamente en el mundo de la tecnología, estoy dedicado apasionadamente a crear un algoritmo innovador. Esta obra maestra está diseñada para crear personajes virtuales a través de la magia de la detección. 🌈✨
+Deeply immersed in the world of technology, I am passionately dedicated to creating an innovative algorithm. This masterpiece is designed to create virtual characters through the magic of detection. 🌈✨
 
-## 📚 Navegando las Sendas de la Inteligencia Artificial 🚀
+## 📚 Navigating the Paths of Artificial Intelligence 🚀
 
-Mis horizontes intelectuales se expanden mientras emprendo un emocionante viaje para dominar el cautivador campo de la Inteligencia Artificial. Con una curiosidad inagotable, me sumerjo en las profundidades de la IA, ansioso por desvelar sus misterios. 🌐🤖
+My intellectual horizons expand as I embark on an exciting journey to master the captivating field of Artificial Intelligence. With inexhaustible curiosity, I plunge into the depths of AI, eager to unravel its mysteries. 🌐🤖
 
-¡Acompáñame en esta encantadora aventura de descubrimiento y creación! 🌟🔍
-
+Join me on this enchanting adventure of discovery and creation! 🌟🔍
 
 <!--
 **Luqueee/Luqueee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
