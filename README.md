@@ -1,28 +1,25 @@
-# Hello, I'm Adrià!
+<h1 align="left">Hi 👋, I'm Adrià</h1>
+<h2 align="left"><b>Python Lover❤️</b></h2>
 
-## Python Lover❤️😍
+- 🔭 I’m currently working on **Virtual Character Generator with Webcam detection**
 
-## 💫 Focused on Creation: Forging a Fascinating Algorithm 🧠🎨
+- 🌱 I’m currently learning **IA**
 
-Deeply immersed in the world of technology, I am passionately dedicated to creating an innovative algorithm. This masterpiece is designed to create virtual characters through the magic of detection. 🌈✨
+- 👨‍💻 All of my projects are available at [https://github.com/Luqueee](https://github.com/Luqueee)
 
-## 📚 Navigating the Paths of Artificial Intelligence 🚀
+- 💬 Ask me about **Python**
 
-My intellectual horizons expand as I embark on an exciting journey to master the captivating field of Artificial Intelligence. With inexhaustible curiosity, I plunge into the depths of AI, eager to unravel its mysteries. 🌐🤖
+- 📫 How to reach me **INSTAGRAM PLS**
 
-Join me on this enchanting adventure of discovery and creation! 🌟🔍
+- ⚡ Fun fact **I am only 16 years old and I would like to learn much more about AI**
 
-<!--
-**Luqueee/Luqueee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/adria.cabreraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adria.cabreraa" height="30" width="40" /></a>
+<a href="https://discord.gg/.adriaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".adriaaaa" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luqueee&show_icons=true&theme=dark&locale=en&layout=compact" alt="luqueee" /></p>
