@@ -2,17 +2,11 @@
 <h1 align="left">Hi 👋, I'm Adrià</h1>
 <h2 align="left"><b>Python Lover❤️</b></h2>
 
-- 🔭 I’m currently working on **Virtual Character Generator with Webcam detection**
-
-- 🌱 I’m currently learning **IA**
+- 🌱 I’m currently learning **Frontend and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Luqueee](https://github.com/Luqueee)
-
-- 💬 Ask me about **Python**
-
+  
 - 📫 How to reach me **INSTAGRAM PLS**
-
-- ⚡ Fun fact **I am only 16 years old and I would like to learn much more about AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
