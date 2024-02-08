@@ -5,7 +5,7 @@
 ## I'm a Associate Software Engineer at Acentura
 
 - 👨‍💻 I’m currently working in-app.
-- 📚 Learning Node.js, Next.js, CSS, Tailwind and React 😅
+- 📚 Learning Node.js, Next.js, CSS, Tailwind and React 🔥
 - 💪🏼 Future Goals: Learn more about full-stack.
 
 ---
