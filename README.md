@@ -20,7 +20,7 @@
 <h3 align="center">Technologies that I know👨🏻‍💻 </h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=css,discord,github,html,idea,linux,md,py,vscode&perline=14" /></p>
 
-<h3 align="center">Technologies that I currently learning📕</h1>
+<h3 align="center">Technologies that I'm currently learning📕</h1>
 <p align="center" ><img align="center" src="https://skillicons.dev/icons?i=css,express,js,mysql,nextjs,nodejs,react,ts" /></p>
 
 <!--tech stack icons-->
