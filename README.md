@@ -1,4 +1,7 @@
-<img align="center" src="https://media.giphy.com/media/mD483FoOBfybCwPXTK/giphy.gif" width="400"/>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <h1 align="left">Hi 👋, I'm Adrià</h1>
 <h2 align="left"><b>Python Lover❤️</b></h2>
 
