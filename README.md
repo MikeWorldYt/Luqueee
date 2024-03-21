@@ -15,7 +15,7 @@
 </p>
 
 
-<p align="center"><img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></p>
+<!--<p align="center"><img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></p>-->
 
 <h3 align="center">Technologies that I know👨🏻‍💻 </h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,discord,github,linux,py,vscode&perline=14" /></p>
