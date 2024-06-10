@@ -2,7 +2,7 @@
 
 
 ## <img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width='32px' height:32px> **I'm a IT degree student in Spain** 
-<img align="right" alt="GIF" height="160px" style='z-index:99999' src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" style='z-index:99999; display: block' src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <div>
 - 👨‍💻 I’m currently improving my knowledge.
 - 📚 Focused in Astro🔥
